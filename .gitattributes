@@ -1,4 +1,5 @@
 *.html linguist-language=HTML
 *.css linguist-language=CSS
 *.js linguist-language=JavaScript
-*.py linguist-language=ignore
+*.ps1 linguist-language=ignore
+*.bat linguist-language=ignore
